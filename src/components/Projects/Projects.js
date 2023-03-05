@@ -18,10 +18,10 @@ function Projects() {
         <Container fluid>
             <Particle />
             <Container>
-                <h1 className='project-heading' style={{ paddingTop: '70px' }}>
+                <h1 className='project-heading' style={{ paddingTop: '80px' }}>
                     <strong className='purple'>Projects</strong>
                 </h1>
-                <Row xs={1} md={3} className="g-4">
+                <Row xs={1} md={3} className="g-4" style={{ paddingBottom: '50px' }}>
                     {projects.map((project) => (
                         <Col key={project._id}>
                             <Card className='overflow-hidden w-100 p-0 rounded-2 h-100 project-card'>
