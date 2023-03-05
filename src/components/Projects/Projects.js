@@ -18,7 +18,7 @@ function Projects() {
         <Container fluid>
             <Particle />
             <Container>
-                <h1 className='project-heading' style={{ paddingTop: '50px' }}>
+                <h1 className='project-heading' style={{ paddingTop: '70px' }}>
                     <strong className='purple'>Projects</strong>
                 </h1>
                 <Row xs={1} md={3} className="g-4">
