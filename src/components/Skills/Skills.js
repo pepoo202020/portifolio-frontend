@@ -37,7 +37,7 @@ function Skills() {
         <Container fluid>
             <Particle />
             <Container>
-                <h1 className="project-heading" style={{ paddingTop: "50px" }}>
+                <h1 className="project-heading" style={{ paddingTop: "80px" }}>
                     Professional <strong className="purple">Skills</strong>
                 </h1>
                 <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
