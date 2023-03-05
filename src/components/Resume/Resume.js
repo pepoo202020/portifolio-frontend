@@ -38,7 +38,7 @@ function Resume() {
                     </Document>
                 </Row>
 
-                <Row style={{ justifyContent: "center", position: "relative" }}>
+                <Row style={{ justifyContent: "center", position: "relative", paddingTop: '80px' }}>
                     <Button
                         variant="primary"
                         href={pdf}
